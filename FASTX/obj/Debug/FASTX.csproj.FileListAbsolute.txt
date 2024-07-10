@@ -1,0 +1,156 @@
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\FASTX.dll.config
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\FASTX.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\FASTX.pdb
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\csc.exe
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\csc.exe.config
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\csc.rsp
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\csi.exe
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\csi.exe.config
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\csi.rsp
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.Managed.Core.targets
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.AppContext.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Collections.Immutable.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Console.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Globalization.Calendars.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.IO.Compression.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.IO.FileSystem.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Net.Http.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Net.Sockets.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Reflection.Metadata.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.ValueTuple.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Xml.XmlDocument.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Xml.XPath.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\vbc.exe
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\vbc.exe.config
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\vbc.rsp
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\VBCSCompiler.exe
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\roslyn\VBCSCompiler.exe.config
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\BLL.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\EntityFramework.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\EntityFramework.SqlServer.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\Newtonsoft.Json.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\System.Net.Http.Formatting.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\System.Web.Http.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\System.Web.Http.WebHost.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\BLL.pdb
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\EntityFramework.xml
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\EntityFramework.SqlServer.xml
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\Newtonsoft.Json.xml
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\System.Net.Http.Formatting.xml
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\System.Web.Http.xml
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\System.Web.Http.WebHost.xml
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\obj\Debug\FASTX.csproj.AssemblyReference.cache
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\obj\Debug\FASTX.csproj.CoreCompileInputs.cache
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\obj\Debug\FASTX.csproj.CopyComplete
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\obj\Debug\FASTX.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\obj\Debug\FASTX.pdb
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\DAL.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\AutoMapper.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\DAL.pdb
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\DAL.dll.config
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\FASTX\bin\AutoMapper.xml
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\FASTX.dll.config
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\FASTX.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\FASTX.pdb
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\csc.exe
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\csc.exe.config
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\csc.rsp
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\csi.exe
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\csi.exe.config
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\csi.rsp
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.Managed.Core.targets
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.AppContext.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Collections.Immutable.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Console.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Globalization.Calendars.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.IO.Compression.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.IO.FileSystem.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Net.Http.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Net.Sockets.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Reflection.Metadata.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.ValueTuple.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Xml.XmlDocument.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Xml.XPath.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\vbc.exe
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\vbc.exe.config
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\vbc.rsp
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\VBCSCompiler.exe
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\roslyn\VBCSCompiler.exe.config
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\BLL.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\EntityFramework.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\EntityFramework.SqlServer.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\Newtonsoft.Json.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\System.Net.Http.Formatting.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\System.Web.Http.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\System.Web.Http.WebHost.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\AutoMapper.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\DAL.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\BLL.pdb
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\EntityFramework.xml
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\EntityFramework.SqlServer.xml
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\Newtonsoft.Json.xml
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\System.Net.Http.Formatting.xml
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\System.Web.Http.xml
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\System.Web.Http.WebHost.xml
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\AutoMapper.xml
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\DAL.pdb
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\bin\DAL.dll.config
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\obj\Debug\FASTX.csproj.AssemblyReference.cache
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\obj\Debug\FASTX.csproj.CoreCompileInputs.cache
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\obj\Debug\FASTX.csproj.CopyComplete
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\obj\Debug\FASTX.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\FASTX\obj\Debug\FASTX.pdb

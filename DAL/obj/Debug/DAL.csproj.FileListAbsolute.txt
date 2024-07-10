@@ -1,0 +1,29 @@
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\DAL\bin\Debug\DAL.dll.config
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\DAL\bin\Debug\DAL.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\DAL\bin\Debug\DAL.pdb
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\DAL\bin\Debug\EntityFramework.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\DAL\bin\Debug\EntityFramework.xml
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\DAL\obj\Debug\DAL.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\DAL\obj\Debug\DAL.pdb
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\DAL\obj\Debug\DAL.Migrations.intiDB.resources
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\DAL\bin\Debug\DAL.dll.config
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\DAL\bin\Debug\DAL.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\DAL\bin\Debug\DAL.pdb
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\DAL\bin\Debug\EntityFramework.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\DAL\bin\Debug\EntityFramework.xml
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\DAL\obj\Debug\DAL.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\DAL\obj\Debug\DAL.pdb
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\DAL\obj\Debug\DAL.Migrations.managerAndInventoryAdded.resources
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\DAL\obj\Debug\DAL.Migrations.orderChanged.resources

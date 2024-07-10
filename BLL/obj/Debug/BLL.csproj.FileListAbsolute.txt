@@ -1,0 +1,28 @@
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\BLL\bin\Debug\BLL.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\BLL\bin\Debug\BLL.pdb
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\BLL\bin\Debug\DAL.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\BLL\bin\Debug\DAL.pdb
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\BLL\bin\Debug\DAL.dll.config
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\BLL\obj\Debug\BLL.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\BLL\obj\Debug\BLL.pdb
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\BLL\bin\Debug\AutoMapper.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\BLL\bin\Debug\EntityFramework.dll
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\BLL\bin\Debug\AutoMapper.xml
+D:\advanceDotNet\projectFiles\advanceDotNet\FASTX\BLL\bin\Debug\EntityFramework.xml
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\BLL\obj\Debug\BLL.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\BLL\obj\Debug\BLL.pdb
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\BLL\bin\Debug\BLL.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\BLL\bin\Debug\BLL.pdb
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\BLL\bin\Debug\AutoMapper.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\BLL\bin\Debug\DAL.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\BLL\bin\Debug\EntityFramework.dll
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\BLL\bin\Debug\DAL.pdb
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\BLL\bin\Debug\DAL.dll.config
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\BLL\bin\Debug\AutoMapper.xml
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\BLL\bin\Debug\EntityFramework.xml
+G:\codes\adv c#\Work\advanceDotNet\advanceDotNet\FASTX\BLL\obj\Debug\BLL.csproj.CopyComplete
